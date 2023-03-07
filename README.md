@@ -1,14 +1,18 @@
-## Zahar Zelensky
+## About Me
 
 Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
+
+## Socials
+[LinkedIn](linkedin.com/in/zahar-zelensky)
 
 ## Projects
 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Final project**            | A webapp to do x. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript|
 | [Aceebook](https://github.com/ZZ3333/acebook-acebookers) | A webapp to do y. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript|
+| 
 
 ## Work Experience
 
