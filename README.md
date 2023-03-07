@@ -8,7 +8,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **https://github.com/ZZ3333/acebook-acebookers** | A webapp to do y. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript|
+| [Aceebook](https://github.com/ZZ3333/acebook-acebookers) | A webapp to do y. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript|
 
 ## Work Experience
 
