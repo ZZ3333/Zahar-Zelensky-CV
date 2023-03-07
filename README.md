@@ -1,13 +1,14 @@
 ## Zahar Zelensky
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
 
 ## Projects
+
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **https://github.com/ZZ3333/acebook-acebookers** | A webapp to do y. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript|
 
 ## Work Experience
 
