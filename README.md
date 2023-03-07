@@ -3,7 +3,7 @@
 Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
 
 ## Socials
-[LinkedIn](linkedin.com/in/zahar-zelensky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky) 
 
 ## Projects
 
