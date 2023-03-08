@@ -34,7 +34,8 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; n
 
 - [Nulastin](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB/?_encoding=UTF8&store_ref=SB_A08920502NIQ3Z3SF92BZ&pd_rd_plhdr=t&aaxitk=a7086e820823b154219b5d022c41c755&hsa_cr_id=8954127820501&lp_asins=B081LNH2WC%2CB081LNY37X%2CB08W5C68DZ&lp_query=nulastin&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_ls&pd_rd_w=2f3C3&content-id=amzn1.sym.488a18be-6d86-4de0-8607-bd4ea4b560f3%3Aamzn1.sym.488a18be-6d86-4de0-8607-bd4ea4b560f3&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pf_rd_r=K7ZD4SC8PFRV72MC6CRV&pd_rd_wg=28QvJ&pd_rd_r=916ca75c-f051-4107-860b-fb111453b0c2) `US: 1st month sales: $33k vs 8th: $217k; Grow rate: 543%. 1st & fastest biz to hit $1m in sales (6 month). WoW RoAS 4-6, TACoS 10%`
 
-- [Vital Baby](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby) `UK: Increased Purchase Orders by >4x: Feb 2022 entire catalogue (70u) vs May 2022 5 ASINs. <br> WoW RoAS 9, TACoS 4% & ACoS 10`
+- [Vital Baby](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby) `UK: Increased Purchase Orders by >4x: Feb 2022 entire catalogue (70u) vs May 2022 5 ASINs. <br> 
+WoW RoAS 9, TACoS 4% & ACoS 10`
 
 - [E70](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln) `US: Feb 2022 sales: $4.2k, Mar 2022 sales: $14.1k; Growth rate: 263% at 8% TACoS, down from 33%`
 
