@@ -44,7 +44,7 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; n
 
 - [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln): Feb 2022 sales: £15.7k vs June 2022: £30.7k; Growth rate: 100% at 13% TACoS
 
- - [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A): June 21 Purchase Orders: £31k vs Jan 22: £70k; Growth rate: 125%, at 10% TACoS, down from 25%
+ - [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A): `June 21 Purchase Orders: £31k vs Jan 22: £70k; Growth rate: 125%, at 10% TACoS, down from 25%`
 
  - [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln): Feb 2022 sales: £25.2k vs Apr 2022 £72.4k; Growth rate: 187%, at 13% TACoS
 
