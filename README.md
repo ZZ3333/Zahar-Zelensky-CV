@@ -28,7 +28,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 **Threecolts** (Mar 2021 - June 2022)  
 _Threecolts - E-commerce Strategy, Operations & Senior Account Manager (4th employee)_
 
-Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; notable achievements & KPIs:
+<font size=”11”>Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; notable achievements & KPIs:</font>
 
 - [FGS Ingredients](https://www.amazon.co.uk/s?k=Old+India) UK: 1st month sales: £103k vs 6th: £228k; GR: 122%. The best performing MoM account on record. Brought 20% of the catalogue (968 ASINs) to the top of the BSR in 11 categories. WoW RoAS 5-6 & WoW ACoS dropped from 42% to 15%, 2x QoQ sales
 
