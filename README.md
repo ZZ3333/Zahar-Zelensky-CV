@@ -26,7 +26,12 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 # Work Experience 💼
 
 ### **Threecolts** (Mar 2021 - June 2022)  
- _E-commerce Strategy, Operations & Senior Account Manager (4th employee)_
+ _E-commerce Strategy & Operations Senior Manager & Head of Amazon FBA startups_
+
+<h4 align="center">
+<a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client testimonials</a> | <a href="https://docs.google.com/document/d/1yhdk1ylpxsp2auKe0noVMSQBwHK7lmkTQwwfCjqai70/edit">📁 Helpful Amazon glossary</a> 
+</h4>
+
 
 Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; **notable KPIs:**
 
@@ -51,8 +56,6 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
  - [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln) Apr 2021 sales: £6k vs July 2021 £9.1k; **Growth rate: 52%** at 4% TACoS, down from 25%
 
  - [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln) Mar 2022 sales: £16.8k vs June 2022 £25.3k; **Growth rate: 51%** at 18% TACoS, down from 33%
-
-<br>
 
 **Additional Achievments**
 
@@ -83,6 +86,57 @@ Smart camera for control & management of excessive food waste for the B2B & B2C 
   - Shortlisted as the **most anticipated start-up** in the Spring 2019 cohort at the ABC Accelerator in Slovenia
 - Founders Factory **set up a new sector for their accelerator program** following my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
 - **Top finalist** in the Creatella startup pitch & product demonstration [competition](https://creatella.ventures/competition) from >2000 companies
+
+
+### **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
+_Product Development Manager_
+
+UBS initiated & VC backed peer to peer blockchain platform for exchange of tokenized cash value between members
+
+- Led product development for the consortium of top 20 leading banks & 5 Central Banks at the C-level:
+  - Coordinated steps & prepared the company for the Series A **$63.2m investment round.** The capital was raised from 16 out of 20 member banks
+  - Signed **3 new member banks** to the platform; increased the total number of institutional participants to **23**
+  - Secured an overwhelming support from the member banks for the distribution of economic & financial incentives for the platform members
+- Collaborated with a team of **12 blockchain engineers** on the successful MVP launch of P, PvP & DvP payments infrastructure products
+- Produced product specific documents, liased with engineers to ensure the alignment of the product roadmap with the members’ objectives
+- Performed strategic analysis on legacy payment networks; identified significant cost saving opportunity btw **0.3x-16x** for the target product
+
+### **Bitsmarter** (May 2018 - July 2018)  
+_Product Development Manager (short tenure because the CEO scammed the company & disappeared)_
+
+Consultancy firm working with blockchain & IoT start-ups across multiple stages & verticals
+
+- Managed blockchain strategies & initiatives for seed & growth stage start-ups:
+  - Location sharing app: Realized **£119k in R&D Tax Relief**, launched MVP, designed blockchain architecture, [here](https://www.dropbox.com/sh/k1viac0pc9wewnh/AADIhngcnjTcACH_Gmxy3mH6a?dl=0)
+  - Annuity start-up: Designed business-specific blockchain architecture with native token economics, [here](https://www.dropbox.com/sh/7t9sogis6x3z44h/AACg2odWu-VOrC6P947G6fXVa?dl=0)
+
+### **GSA Capital** (Apr 2017 - Apr 2018)  
+_Equity Trading Analyst (1 year contract)_
+
+London-based top quant hedge fund
+
+- Identified **>90%** of BUY opportunity stocks by analysing equity valuation models, risk & return characteristics of each public company
+- Supported quantitative research team & traders; successfully delivered trading recommendations & ideas worth **>US$5m**
+- Carried out extensive data equity analyses on US, Asian & EU stocks to tap into additional buying opportunities
+
+
+### **DealGlobe** (Apr 2016 - Feb 2017)  
+_M&A Analyst Intern_
+
+Leading Sino - European M&A boutique buy & sell-side advisory
+
+- Completed UK-based transactions:
+  - **US$1.4bn** AppLovin marketing company
+  - **US$300m** Southampton football club
+  - **US$30m** IpGroup company
+
+### **UBS** (Nov 2015 - Dec 2015)  
+_Investment Analyst (2 months contract)_
+
+Leading Investment Bank
+
+- Produced over **£5m** in trading recommendations for in house traders
+- Performed valuation analyses on stocks **>$200M in annual sales**; utilized CAPM to identify entry & exit points for equity positions
 
 ## Skills
 
