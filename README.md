@@ -35,27 +35,27 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; **notable KPIs:**
 
-- [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India) 1st month sales: £103k vs 6th: £228k; **Grow rate: 122%.** The best performing MoM account on record. Brought 20% of the catalogue (968 ASINs) to the top of the BSR in 11 categories. WoW RoAS 5-6 & WoW ACoS dropped from 42% to 15%, 2x QoQ sales
+- [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India) 1st month sales: £103k vs 6th: £228k; <mark> Grow rate: 122%. </mark> The best performing MoM account on record. Brought 20% of the catalogue (968 ASINs) to the top of the BSR in 11 categories. WoW RoAS 5-6 & WoW ACoS dropped from 42% to 15%, 2x QoQ sales
 
-- [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB) 1st month sales: $33k vs 8th: $217; **Grow rate: 543%.** 1st & fastest biz to hit $1m in sales (6 month). WoW RoAS 4-6, TACoS 10%
+- [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB) 1st month sales: $33k vs 8th: $217; <mark> Grow rate: 543%. </mark> 1st & fastest biz to hit $1m in sales (6 month). WoW RoAS 4-6, TACoS 10%
 
-- [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby) Increased Purchase Orders by **>4x**: Feb 2022 entire catalogue (70u) vs May 2022 5 ASINs. WoW RoAS 9, TACoS 4% & ACoS 10
+- [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby) Increased Purchase Orders by <mark> >4x </mark>: Feb 2022 entire catalogue (70u) vs May 2022 5 ASINs. WoW RoAS 9, TACoS 4% & ACoS 10
 
-- [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln) Feb 2022 sales: $4.2k, Mar 2022 sales: $14.1k; **Growth rate: 263%** at 8% TACoS, down from 33%
+- [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln) Feb 2022 sales: $4.2k, Mar 2022 sales: $14.1k; <mark> Growth rate: 263% </mark> at 8% TACoS, down from 33%
 
-- [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln) 1st month sales: $7k vs 4th: $21k; **Growth rate: 200%**. Scaled WoW RoAS btw 3-5 at TACoS 13%, down from 40%
+- [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln) 1st month sales: $7k vs 4th: $21k; <mark> Growth rate: 200%. </mark> Scaled WoW RoAS btw 3-5 at TACoS 13%, down from 40%
 
-- [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln) 1st month sales on 10 core ASINs: €601 vs 3rd month: €3k; **Growth rate: 400%,** 1st mo TACoS: 88% vs 3rd month: 17%
+- [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln) 1st month sales on 10 core ASINs: €601 vs 3rd month: €3k; </mark> Growth rate: 400% </mark>, 1st mo TACoS: 88% vs 3rd month: 17%
 
-- [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln) Feb 2022 sales: £15.7k vs June 2022: £30.7k; **Growth rate: 100%** at 13% TACoS
+- [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln) Feb 2022 sales: £15.7k vs June 2022: £30.7k; <mark> Growth rate: 100% </mark> at 13% TACoS
 
- - [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A) June 21 Purchase Orders: £31k vs Jan 22: £70k; **Growth rate: 125%,** at 10% TACoS, down from 25%
+ - [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A) June 21 Purchase Orders: £31k vs Jan 22: £70k; <mark> Growth rate: 125%, </mark> at 10% TACoS, down from 25%
 
- - [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln) Feb 2022 sales: £25.2k vs Apr 2022 £72.4k; **Growth rate: 187%,** at 13% TACoS
+ - [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln) Feb 2022 sales: £25.2k vs Apr 2022 £72.4k; <mark> Growth rate: 187%, </mark> at 13% TACoS
 
- - [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln) Apr 2021 sales: £6k vs July 2021 £9.1k; **Growth rate: 52%** at 4% TACoS, down from 25%
+ - [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln) Apr 2021 sales: £6k vs July 2021 £9.1k; <mark> Growth rate: 52% </mark> at 4% TACoS, down from 25%
 
- - [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln) Mar 2022 sales: £16.8k vs June 2022 £25.3k; **Growth rate: 51%** at 18% TACoS, down from 33%
+ - [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln) Mar 2022 sales: £16.8k vs June 2022 £25.3k; <mark> Growth rate: 51% </mark> at 18% TACoS, down from 33%
 
 **Additional Achievments**
 
