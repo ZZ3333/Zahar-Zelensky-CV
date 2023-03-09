@@ -2,10 +2,10 @@
 
 Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
 
-# Socials 📒
+## Socials 📒
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky) 
 
-# Skills 🧰
+## Skills 🧰
 
 
 <p align="center">
@@ -14,7 +14,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 
 
-# Projects ✏️
+## Projects ✏️
 
 
 | Name                         | Description       | Tech/tools        |
@@ -23,7 +23,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 | [Aceebook](https://github.com/ZZ3333/acebook-acebookers) | A webapp to do y. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript|
 | 
 
-# Work Experience 💼
+## Work Experience 💼
 
 ### **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy & Operations Senior Manager & Head of Amazon FBA startups_
