@@ -25,14 +25,14 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 # Work Experience 💼
 
-**Threecolts** (Mar 2021 - June 2022)  
-_Threecolts - E-commerce Strategy, Operations & Senior Account Manager (4th employee)_
+### **Threecolts** (Mar 2021 - June 2022)  
+ _Threecolts - E-commerce Strategy, Operations & Senior Account Manager (4th employee)_
 
-Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; notable achievements & KPIs:
+Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; **notable achievements & KPIs:**
 
 - [FGS Ingredients](https://www.amazon.co.uk/s?k=Old+India) `UK: 1st month sales: £103k vs 6th: £228k; GR: 122%. The best performing MoM account on record. Brought 20% of the catalogue (968 ASINs) to the top of the BSR in 11 categories. WoW RoAS 5-6 & WoW ACoS dropped from 42% to 15%, 2x QoQ sales`
 
-- [Nulastin](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB/?_encoding=UTF8&store_ref=SB_A08920502NIQ3Z3SF92BZ&pd_rd_plhdr=t&aaxitk=a7086e820823b154219b5d022c41c755&hsa_cr_id=8954127820501&lp_asins=B081LNH2WC%2CB081LNY37X%2CB08W5C68DZ&lp_query=nulastin&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_ls&pd_rd_w=2f3C3&content-id=amzn1.sym.488a18be-6d86-4de0-8607-bd4ea4b560f3%3Aamzn1.sym.488a18be-6d86-4de0-8607-bd4ea4b560f3&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pf_rd_r=K7ZD4SC8PFRV72MC6CRV&pd_rd_wg=28QvJ&pd_rd_r=916ca75c-f051-4107-860b-fb111453b0c2) `US: 1st month sales: ==$33k vs 8th: $217k==; Grow rate: 543%. 1st & fastest biz to hit $1m in sales (6 month). WoW RoAS 4-6, TACoS 10%`
+- [Nulastin](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB/?_encoding=UTF8&store_ref=SB_A08920502NIQ3Z3SF92BZ&pd_rd_plhdr=t&aaxitk=a7086e820823b154219b5d022c41c755&hsa_cr_id=8954127820501&lp_asins=B081LNH2WC%2CB081LNY37X%2CB08W5C68DZ&lp_query=nulastin&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_ls&pd_rd_w=2f3C3&content-id=amzn1.sym.488a18be-6d86-4de0-8607-bd4ea4b560f3%3Aamzn1.sym.488a18be-6d86-4de0-8607-bd4ea4b560f3&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pf_rd_r=K7ZD4SC8PFRV72MC6CRV&pd_rd_wg=28QvJ&pd_rd_r=916ca75c-f051-4107-860b-fb111453b0c2) `US: 1st month sales: $33k vs 8th: $217; Grow rate: 543%. 1st & fastest biz to hit $1m in sales (6 month). WoW RoAS 4-6, TACoS 10%`
 
 - [Vital Baby](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby) `UK: Increased Purchase Orders by >4x: Feb 2022 entire catalogue (70u) vs May 2022 5 ASINs. WoW RoAS 9, TACoS 4% & ACoS 10`
 
@@ -51,6 +51,21 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; n
  - [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln): `Apr 2021 sales: £6k vs July 2021 £9.1k; Growth rate: 52% at 4% TACoS, down from 25%`
 
  - [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln): `Mar 2022 sales: £16.8k vs June 2022 £25.3k; Growth rate: 51% at 18% TACoS, down from 33%`
+
+**Additional Achievments**
+
+- Delivered >$2m in monthly sales which yielded a 57% YoY aggregated monthly sales growth across the managed portfolio. Oversaw 4 PPC Associates & 1 Associate Manager, & managed a yearly advertising budget of >$3m
+- xamined demand trends & cultivated go-to-market strategies for over >60 products in multiple verticals & marketplaces.
+- Unlocked the highest expansion revenue opportunity on record in billed hours: Nulastin: 8hr/week to 16hr/week / FGS: 5hr/week
+to 10hr/week / Jill: 5hr/week to 10hr/week / e70 performance led to signing a $160k/month Amazon business
+- Launched 12 Amazon startups. Oversaw all aspects of startup journey: from launch, strategy, comms & execution. Yield: $30k in 2 mo
+- Liaised with developers to fix a failing feature for Amazon businesses (day parting of ads). Real-time alert system was built &
+integrated into Slack. A 100% reduction in failed ad starts was achieved & response rate to ad failures jumped by >90% in real time
+- Enhanced businesses’ ops. Unlocked efficiency through building advanced client reporting dashboards with multiple KPIs & data
+points for scaling Amazon businesses better & further. >80% in additional sales were captured thanks to improved optimisation
+- Maintained the best client retention rate on record; contributed to periods with the lowest churn rate MoM; <2%
+- Oversaw all accounts’ data & was the main custodian of its quality & delivery. Reviewed data daily & formulated high level &
+data-driven strategies & targets on weekly, monthly, quarterly & yearly basis per business. Managed 2 Data Analysts
 
 **Company Name** (start-date to end-date)  
 _Your job title_
