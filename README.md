@@ -17,10 +17,10 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 ## Projects ✏️
 
 
-| Name | Description | Tech/tools | PDF Presentation | Project Recording |
-| ---| --- | --- | ---| --|
-| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London. | MongoDB, React, Node.js, Express, Jest, JavaScript, React |
-| [**Aceebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript|
+| Name | Description | Tech/tools | PDF Presentation | Project Recording | Type |
+| ---| --- | --- | ---| --| ---|
+| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London. | MongoDB, React, Node.js, Express, Jest, JavaScript, React, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Project
+| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| | | 2nd team engineering project
 
 
 ## Work Experience 💼
