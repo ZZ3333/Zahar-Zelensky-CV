@@ -59,6 +59,21 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 
  - [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln) Mar 2022 sales: £16.8k vs June 2022 £25.3k; **Growth rate: 51%** at 18% TACoS, down from 33%
 
+
+| Company Name  | Growth Rate | ROAS | ACOS |
+| ------------- | ------------- | --- | --- |
+| [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | Content Cell  | --- | --- |
+| [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB)  | Content Cell  | --- | --- |
+| [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby)  | Content Cell  | --- | --- |
+| [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln)  | Content Cell  | --- | --- |
+| [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln)  | Content Cell  | --- | --- |
+| [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln)  | Content Cell  | --- | --- |
+| [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln)  | Content Cell  | --- | --- |
+| [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A)  | Content Cell  | --- | --- |
+| [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | Content Cell  | --- | --- |
+| [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | Content Cell  | --- | --- |
+| [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | Content Cell  | --- | --- |
+
 **Additional Achievments**
 
 - Delivered **>$2m in monthly sales** which yielded a 57% YoY aggregated monthly sales growth across the managed portfolio. Oversaw 4 PPC Associates & 1 Associate Manager, & managed a yearly advertising budget of >$3m
@@ -93,11 +108,9 @@ Smart camera for control & management of excessive food waste for the B2B & B2C 
 ### **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
 
-UBS initiated & VC backed peer to peer blockchain platform for exchange of tokenized cash value between <font color="green">members</font>
+UBS initiated & VC backed peer to peer blockchain platform for exchange of tokenized cash value between members
 
-<span style="color: green">ffffs</span>
 
-![ffsfsfsf]`#f03c15`
 
 - Led product development for the consortium of top 20 leading banks & 5 Central Banks at the C-level:
   - Coordinated steps & prepared the company for the Series A **$63.2m investment round.** The capital was raised from 16 out of 20 member banks
