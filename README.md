@@ -3,7 +3,8 @@
 Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
 
 ## Socials 📒
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky)
 
 ## Skills 🧰
 
@@ -19,7 +20,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 | Name | Description | Tech/tools | PDF Presentation | Project Recording | Type |
 | :---:| :---: | :---: | :---:| :---:| :---:|
-| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, React, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Team Project
+| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Team Project
 | [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd Team Engineering Project
 | **MakersBnB** | A clone of Airbnb | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project
 
@@ -66,7 +67,7 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
   
 - Contributed to the **highest expansion revenue opportunity on record in billed hours**: Nulastin: 8hr/week to 16hr/week / FGS: 5hr/week to 10hr/week / Jill: 5hr/week to 10hr/week / e70 performance led to signing a $160k/month Amazon business
 
-- Launched **12 Amazon startups.** Oversaw all aspects of startup journey: from launch, strategy, comms & execution. Yield: $30k in 2 months
+- Launched **12 Amazon startups.** Oversaw all aspects of startup journey: from launch, strategy, communication & execution. Combined Yield: **$30k in 2 months**
   
 - Liaised with developers to fix a failing feature for Amazon businesses (day parting of ads). Real-time alert system was built & integrated into Slack. A **100% reduction** in failed ad starts was achieved & response rate to ad failures jumped by **>90%** in real time
   
@@ -77,7 +78,7 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 - Oversaw all accounts’ data & was the main custodian of its quality & delivery. Reviewed data daily & **formulated high level & data-driven strategies & targets** on weekly, monthly, quarterly & yearly basis per business. Managed 2 Data Analysts
 
 ### **Dziro** (Apr 2019 - Mar 2020)  
-_Founder (bootstrapped, reached out & pitched to >1000 potential investors)_
+_Founder (bootstrapped, reached out & pitched to >1000 potential investors, [pitch deck](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing))_
 
 Smart camera for control & management of excessive food waste for the B2B & B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0)
 
@@ -92,7 +93,7 @@ Smart camera for control & management of excessive food waste for the B2B & B2C 
 ### **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
 
-UBS initiated & VC backed peer to peer blockchain platform for exchange of tokenized cash value between members
+UBS initiated & VC backed peer to peer blockchain platform for exchange of tokenized cash value between <font color="green">members</font>
 
 - Led product development for the consortium of top 20 leading banks & 5 Central Banks at the C-level:
   - Coordinated steps & prepared the company for the Series A **$63.2m investment round.** The capital was raised from 16 out of 20 member banks
@@ -118,7 +119,7 @@ London-based top quant hedge fund
 
 - Identified **>90%** of BUY opportunity stocks by analysing equity valuation models, risk & return characteristics of each public company
 - Supported quantitative research team & traders; successfully delivered trading recommendations & ideas worth **>US$5m**
-- Carried out extensive data equity analysis on US, Asian & EU stocks and assigned BUY / SELL / HOLD trading recommendations respectively
+- Carried out extensive data equity analysis on US, Asian & European stocks and assigned BUY / SELL / HOLD trading recommendations respectively
 
 
 ### **DealGlobe** (Apr 2016 - Feb 2017)  
@@ -174,7 +175,7 @@ _Full-time, highly selective 12 weeks software development bootcamp focusing on:
 
 - MSc Economics of Oil & Gas
 - Grade: Merit
-- Received a highly competitve King’s College Scholarship, covering 50% of tuition fees (55 awards for 10,385 students)
+- Received a highly competitve King’s College Scholarship, covering 50% of tuition fees (only 55 awards for 10,385 Masters students)
 
 #### Any other qualifications
 
@@ -182,4 +183,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I am very competitive. I have played many sports in the past but mostly practised judo. I am 3 times British Judo Council National Champion. I also took multiple first places in other local tournaments in the UK
+- I am interested in tech and regularly read start up news from one of my favourite sites: TechCrunch
+- I love reading. My favourite genres: self development, investment, history, novel, and psychology. The very last book I read was **The Bitcoin Standart**
+- I love travelling. I like both planning my trip in greater detail and love travelling to places spontaneously
