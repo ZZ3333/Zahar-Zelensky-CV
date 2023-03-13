@@ -19,9 +19,9 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 | Name | Description | Tech/tools | PDF Presentation | Project Recording | Type |
 | ---| --- | --- | ---| --| ---|
-| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London. | MongoDB, React, Node.js, Express, Jest, JavaScript, React, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Project
-| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook. | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd team engineering project
-| **MakersBnB** | A clone of Airbnb. | Ruby, Sinatra, Rspec| N/A | N/A | 1st team engineering project
+| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, React, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Project
+| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd team engineering project
+| **MakersBnB** | A clone of Airbnb | Ruby, Sinatra, Rspec| N/A | N/A | 1st team engineering project
 
 
 ## Work Experience 💼
@@ -36,27 +36,27 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; **notable KPIs:**
 
-- [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India) 1st month sales: £103k vs 6th: £228k; <mark> Grow rate: 122%. </mark> The best performing MoM account on record. Brought 20% of the catalogue (968 ASINs) to the top of the BSR in 11 categories. WoW RoAS 5-6 & WoW ACoS dropped from 42% to 15%, 2x QoQ sales
+- [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India) 1st month sales: £103k vs 6th: £228k. **Grow rate: 122%**. The best performing MoM account on record. Brought 20% of the catalogue (968 ASINs) to the top of the BSR in 11 categories. WoW RoAS 5-6 & WoW ACoS dropped from 42% to 15%, 2x QoQ sales
 
-- [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB) 1st month sales: $33k vs 8th: $217; <mark> Grow rate: 543%. </mark> 1st & fastest biz to hit $1m in sales (6 month). WoW RoAS 4-6, TACoS 10%
+- [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB) 1st month sales: $33k vs 8th: $217; **Grow rate: 543%**. 1st & fastest biz to hit $1m in sales (6 month). WoW RoAS 4-6, TACoS 10%
 
-- [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby) Increased Purchase Orders by <mark> >4x </mark>: Feb 2022 entire catalogue (70u) vs May 2022 5 ASINs. WoW RoAS 9, TACoS 4% & ACoS 10
+- [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby) Increased Purchase Orders by **>4x**: Feb 2022 entire catalogue (70u) vs May 2022 5 ASINs. WoW RoAS 9, TACoS 4% & ACoS 10
 
-- [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln) Feb 2022 sales: $4.2k, Mar 2022 sales: $14.1k; <mark> Growth rate: 263% </mark> at 8% TACoS, down from 33%
+- [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln) Feb 2022 sales: $4.2k, Mar 2022 sales: $14.1k; **Growth rate: 263%** at 8% TACoS, down from 33%
 
-- [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln) 1st month sales: $7k vs 4th: $21k; <mark> Growth rate: 200%. </mark> Scaled WoW RoAS btw 3-5 at TACoS 13%, down from 40%
+- [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln) 1st month sales: $7k vs 4th: $21k; **Growth rate: 200%**. Scaled WoW RoAS btw 3-5 at TACoS 13%, down from 40%
 
-- [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln) 1st month sales on 10 core ASINs: €601 vs 3rd month: €3k; </mark> Growth rate: 400% </mark>, 1st mo TACoS: 88% vs 3rd month: 17%
+- [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln) 1st month sales on 10 core ASINs: €601 vs 3rd month: €3k; **Growth rate: 400%**, 1st mo TACoS: 88% vs 3rd month: 17%
 
-- [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln) Feb 2022 sales: £15.7k vs June 2022: £30.7k; <mark> Growth rate: 100% </mark> at 13% TACoS
+- [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln) Feb 2022 sales: £15.7k vs June 2022: £30.7k; **Growth rate: 100%** at 13% TACoS
 
- - [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A) June 21 Purchase Orders: £31k vs Jan 22: £70k; <mark> Growth rate: 125%, </mark> at 10% TACoS, down from 25%
+ - [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A) June 21 Purchase Orders: £31k vs Jan 22: £70k; **Growth rate: 125%**, at 10% TACoS, down from 25%
 
- - [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln) Feb 2022 sales: £25.2k vs Apr 2022 £72.4k; <mark> Growth rate: 187%, </mark> at 13% TACoS
+ - [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln) Feb 2022 sales: £25.2k vs Apr 2022 £72.4k; **Growth rate: 187%**, at 13% TACoS
 
- - [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln) Apr 2021 sales: £6k vs July 2021 £9.1k; <mark> Growth rate: 52% </mark> at 4% TACoS, down from 25%
+ - [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln) Apr 2021 sales: £6k vs July 2021 £9.1k; **Growth rate: 52%** at 4% TACoS, down from 25%
 
- - [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln) Mar 2022 sales: £16.8k vs June 2022 £25.3k; <mark> Growth rate: 51% </mark> at 18% TACoS, down from 33%
+ - [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln) Mar 2022 sales: £16.8k vs June 2022 £25.3k; **Growth rate: 51%** at 18% TACoS, down from 33%
 
 **Additional Achievments**
 
@@ -112,13 +112,13 @@ Consultancy firm working with blockchain & IoT start-ups across multiple stages 
   - Annuity start-up: Designed business-specific blockchain architecture with native token economics, [here](https://www.dropbox.com/sh/7t9sogis6x3z44h/AACg2odWu-VOrC6P947G6fXVa?dl=0)
 
 ### **GSA Capital** (Apr 2017 - Apr 2018)  
-_Equity Trading Analyst (1 year contract)_
+_Equity Research Analyst (1 year contract)_
 
 London-based top quant hedge fund
 
 - Identified **>90%** of BUY opportunity stocks by analysing equity valuation models, risk & return characteristics of each public company
 - Supported quantitative research team & traders; successfully delivered trading recommendations & ideas worth **>US$5m**
-- Carried out extensive data equity analyses on US, Asian & EU stocks to tap into additional buying opportunities
+- Carried out extensive data equity analysis on US, Asian & EU stocks and assigned BUY / SELL / HOLD trading recommendations respectively
 
 
 ### **DealGlobe** (Apr 2016 - Feb 2017)  
@@ -126,15 +126,13 @@ _M&A Analyst Intern_
 
 Leading Sino - European M&A boutique buy & sell-side advisory
 
-- Completed UK-based transactions:
+- Worked on the following UK-based transactions:
   - **US$1.4bn** AppLovin marketing company
   - **US$300m** Southampton football club
   - **US$30m** IpGroup company
 
 ### **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
-
-Leading Investment Bank
 
 - Produced over **£5m** in trading recommendations for in house traders
 - Performed valuation analyses on stocks **>$200M in annual sales**; utilized CAPM to identify entry & exit points for equity positions
@@ -161,22 +159,22 @@ I honed my communication skills while completing my thesis at university, which 
 #### Another skill
 
 
-## Education
+## Education 💻
 
-#### Makers Academy (start_date to end_date)
+#### **Makers Academy** (Nov 2022 - March 2023)
+_Full-time, highly selective 12 weeks software development bootcamp focusing on:_
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### **Kings College London** (Sept 2014 - Sept 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc Economics of Oil & Gas
+- Grade: Merit
+- Received a highly competitve King’s College Scholarship, covering 50% of tuition fees (55 awards for 10,385 students)
 
 #### Any other qualifications
 
