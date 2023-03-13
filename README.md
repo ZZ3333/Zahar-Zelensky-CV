@@ -19,9 +19,9 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 | Name | Description | Tech/tools | PDF Presentation | Project Recording | Type |
 | ---| --- | --- | ---| --| ---|
-| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, React, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Project
-| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd team engineering project
-| **MakersBnB** | A clone of Airbnb | Ruby, Sinatra, Rspec| N/A | N/A | 1st team engineering project
+| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, React, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Team Project
+| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd Team Engineering Project
+| **MakersBnB** | A clone of Airbnb | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project
 
 
 ## Work Experience 💼
