@@ -95,6 +95,8 @@ _Product Development Manager_
 
 UBS initiated & VC backed peer to peer blockchain platform for exchange of tokenized cash value between <font color="green">members</font>
 
+<font style="color:blue">ffffs</font>
+
 - Led product development for the consortium of top 20 leading banks & 5 Central Banks at the C-level:
   - Coordinated steps & prepared the company for the Series A **$63.2m investment round.** The capital was raised from 16 out of 20 member banks
   - Signed **3 new member banks** to the platform; increased the total number of institutional participants to **23**
