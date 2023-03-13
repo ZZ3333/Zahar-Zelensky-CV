@@ -14,6 +14,14 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 </p>
 
 
+## Stats 
+
+<img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&locale=en" alt="zz3333" />
+<br><br>
+<img width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=zz3333&" alt="zz3333" />
+<br><br>
+
+
 
 ## Projects ✏️
 
@@ -38,8 +46,6 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; **notable KPIs:**
 
 
-
-<div align="center">
 | Company Name  | Growth Rate | ROAS | ACOS | TACOS
 | :-------------: | :-------------: | :---: | :---: | :---: |
 | [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3%
@@ -53,7 +59,7 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 | [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | 187%  | 4 | 15% | 13%
 | [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4%
 | [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18%
-</div>
+
 
 
 **Additional Achievments**
