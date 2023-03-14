@@ -33,9 +33,6 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 
 
-<img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&theme=dark" /><img width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=tlchambers&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
-<br><br>
-
 
 
 ## Projects ✏️
