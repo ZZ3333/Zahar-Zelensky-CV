@@ -38,11 +38,11 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 ## Projects ✏️
 
 
-| Name | Description | Tech/tools | PDF Presentation | Project Recording | Type |
-| :---:| :---: | :---: | :---:| :---:| :---:|
-| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Team Project
-| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd Team Engineering Project
-| **MakersBnB** | A clone of Airbnb | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project
+| Name | Description | Tech/tools | Deck | Demo | Type | Duration |
+| :---:| :---: | :---: | :---:| :---:| :---:| :---: |
+| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Team Project | 8 days
+| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd Team Engineering Project | 14 days |
+| **MakersBnB** | A clone of Airbnb | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
 ## Work Experience 💼
@@ -73,18 +73,6 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 | [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4% |
 | [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18% |
 </br>
- 
-
- <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
-
-
 
 
 **Additional Achievments**
