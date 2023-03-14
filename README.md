@@ -60,7 +60,7 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 <br>
 
 | Company Name  | Growth Rate | ROAS | ACOS | TACOS | Comments |
-| :-------------: | :-------------: | :---: | :---: | :---:| :---: |
+| :---: | :---: | :---: | :---: | :---:| :---: |
 | [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3%
 | [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB)  | 543%  | 5 | 15% | 10%
 | [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby)  | 400%  | 9 | 5% | 2%
