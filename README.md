@@ -16,9 +16,24 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 ## Stats 
 
-<img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&locale=en" alt="zz3333" />
+
+<img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&locale=en" alt="zz3333" /> 
 <br><br>
 <img width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=zz3333&" alt="zz3333" />
+<br><br>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+
+
+
+<img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&theme=dark" /><img width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=tlchambers&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
 <br><br>
 
 
@@ -45,9 +60,10 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; **notable KPIs:**
 
+<p style="text-align:center">
 
-| Company Name  | Growth Rate | ROAS | ACOS | TACOS
-| :-------------: | :-------------: | :---: | :---: | :---: |
+| Company Name  | Growth Rate | ROAS | ACOS | TACOS | Comments
+| :-------------: | :-------------: | :---: | :---: | :---:| :---: |
 | [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3%
 | [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB)  | 543%  | 5 | 15% | 10%
 | [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby)  | 400%  | 9 | 5% | 2%
@@ -59,6 +75,8 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 | [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | 187%  | 4 | 15% | 13%
 | [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4%
 | [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18%
+
+</p>
 
 
 
