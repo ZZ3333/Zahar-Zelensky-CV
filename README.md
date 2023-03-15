@@ -47,7 +47,7 @@
 
 ## Work Experience 💼
 
-### 🟢 **Threecolts** (Mar 2021 - June 2022)  
+### 🔹 **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy, Operations Senior Account Manager_
 
  Promoted to Head of Amazon Startups in 6 months for exceptional performance
@@ -95,7 +95,7 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 
 </br>
 
-### 🟢 **Dziro** (Apr 2019 - Mar 2020)  
+### 🔹 **Dziro** (Apr 2019 - Mar 2020)  
 _Founder (bootstrapped, reached out & pitched to >1000 potential investors_)
 
 Smart camera to manage food waste for B2B and B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0) & pitch deck [here](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing)
@@ -111,7 +111,7 @@ Smart camera to manage food waste for B2B and B2C markets. Company's assets can 
   
   <br>
   </br>
-### 🟢 **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
+### 🔹 **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
 
 UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized cash value between members
@@ -128,7 +128,7 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 <br>
 </br>
 
-### 🟢 **GSA Capital** (Apr 2017 - July 2018)  
+### 🔹 **GSA Capital** (Apr 2017 - July 2018)  
 _Equity Research Analyst (1+ year contract)_
 
 London-based top quant hedge fund
@@ -140,7 +140,7 @@ London-based top quant hedge fund
 <br>
 </br>
 
-### 🟢 **DealGlobe** (Apr 2016 - Feb 2017)  
+### 🔹 **DealGlobe** (Apr 2016 - Feb 2017)  
 _M&A Analyst Intern_
 
 Sino-European M&A boutique for buy & sell-side advisory
@@ -153,7 +153,7 @@ Sino-European M&A boutique for buy & sell-side advisory
 <br>
 </br>
 
-### 🟢 **UBS** (Nov 2015 - Dec 2015)  
+### 🔹 **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
 
 - Generated £5m+ trading recommendations for in-house traders
