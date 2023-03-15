@@ -41,8 +41,8 @@
 | Name | Description | Tech/tools | Deck | Demo | Type | Duration |
 | :---:| :---: | :---: | :---:| :---:| :---:| :---: |
 | [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Team Project | 8 days
-| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | A clone of Facebook | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd Team Engineering Project | 14 days |
-| **MakersBnB** | A clone of Airbnb | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
+| [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | Facebook Clone | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd Team Engineering Project | 14 days |
+| **MakersBnB** | Airbnb Clone | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
 ## Work Experience 💼
@@ -53,7 +53,7 @@
  Promoted to Head of Amazon Startups in 6 months for exceptional performance
 
 <h4 align="center">
-<a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client testimonials</a> | <a href="https://docs.google.com/document/d/1yhdk1ylpxsp2auKe0noVMSQBwHK7lmkTQwwfCjqai70/edit">📁 Helpful Amazon glossary</a> 
+<a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client Testimonials</a> | <a href="https://docs.google.com/document/d/1yhdk1ylpxsp2auKe0noVMSQBwHK7lmkTQwwfCjqai70/edit">📁 Helpful Amazon glossary</a> 
 </h4>
 
 
@@ -103,8 +103,7 @@ Smart camera to manage food waste for B2B and B2C markets. Company's assets can 
 
   - Launched MVP in <1 month, exceeding the target by 2 months
   - Achieved >97% precision and recognition rate for >400 food types with the smart camera
-  - Named the most anticipated start-up in the Spring 2019 cohort at the ABC
-  - Accelerator, Slovenia
+  - Named the most anticipated start-up in the Spring 2019 cohort at the ABC Accelerator, Slovenia
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
   - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from >2000 companies
   
