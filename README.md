@@ -187,7 +187,7 @@ I honed my communication skills while completing my thesis at university, which 
 #### Another skill
 
 
-## Education 💻
+##  <a name="education">Education 💻</a>
 
 #### **Makers Academy** (Nov 2022 - March 2023)
 _**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
