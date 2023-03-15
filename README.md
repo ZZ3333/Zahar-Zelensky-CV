@@ -42,7 +42,7 @@
 | :---:| :---: | :---: | :---:| :---:| :---:| :---: |
 | [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | due soon | Final Team Project | 8 days
 | [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | Facebook Clone | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript| N/A| N/A | 2nd Team Engineering Project | 14 days |
-| **MakersBnB** | Airbnb Clone | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
+| **MakersBnB** | AirBnB Clone | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
 ## Work Experience 💼
@@ -65,17 +65,17 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 
 | Company Name  | Growth Rate | ROAS | ACOS | TACOS | Comments |
 | :---: | :---: | :---: | :---: | :---:| :---: |
-| [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3% |
-| [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB)  | 543%  | 5 | 15% | 10% |
-| [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby)  | 400%  | 9 | 5% | 2% |
-| [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln)  | 263%  | 4 | 15% | 8% |
-| [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln)  | 200%  | 5 | 15% | 13% |
-| [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln)  | 400%  | 4 | 17% | 17% |
-| [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln)  | 100%  | 4 | 15% | 13% |
-| [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A)  | 125%  | 7 | 13% | 10% |
-| [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | 187%  | 4 | 15% | 13% |
-| [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4% |
-| [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18% |
+| [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3% | Best performing MoM business 
+| [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB)  | 543%  | 5 | 15% | 10% | Scaled to $1m in 6 months
+| [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby)  | 400%  | 9 | 5% | 2% | Scaled priority high value items
+| [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln)  | 263%  | 4 | 15% | 8% | Launched succesfully in a crowded market
+| [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln)  | 200%  | 5 | 15% | 13% | Sales hit all-time high in 3rd month after launch
+| [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln)  | 400%  | 4 | 17% | 17% | Successfully launched in French marketplace
+| [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln)  | 100%  | 4 | 15% | 13% | Defended market share in a crowded market 
+| [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A)  | 125%  | 7 | 13% | 10% | Successfully launched new products with record sales
+| [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | 187%  | 4 | 15% | 13% | Sucessfully launched new product lines in record time
+| [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4% | Optimized business operations & removed inefficiencies for improved performance
+| [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18% | Implemented multiple product strategies & improved operations in a crowded market
 
 </div>
 
