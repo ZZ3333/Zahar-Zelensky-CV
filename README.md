@@ -1,6 +1,6 @@
 # About Me
 
-Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
+<span style="color:green">Hi</span>, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
 
 ## Socials 📒
 
@@ -48,14 +48,16 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 ## Work Experience 💼
 
 ### **Threecolts** (Mar 2021 - June 2022)  
- _E-commerce Strategy & Operations Senior Manager & Head of Amazon FBA startups_
+ _E-commerce Strategy, Operations Senior Account Manager_
+
+ Promoted to Head of Amazon Startups in 6 months for exceptional performance
 
 <h4 align="center">
 <a href="https://drive.google.com/drive/folders/18V8tDO3IDPfjE_Vxux_uuCdf43Aa63He">🥇 Client testimonials</a> | <a href="https://docs.google.com/document/d/1yhdk1ylpxsp2auKe0noVMSQBwHK7lmkTQwwfCjqai70/edit">📁 Helpful Amazon glossary</a> 
 </h4>
 
 
-Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; **notable KPIs:**
+Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, with notable achievements & KPIs:
 
 <br>
 
@@ -80,73 +82,61 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 
 **Additional Highlights**
 
-- Delivered **>$2m in monthly sales** which yielded a 57% YoY aggregated monthly sales growth across the managed portfolio. Oversaw 4 PPC Associates & 1 Associate Manager, & managed a yearly advertising budget of >$3m
-  
-- Examined demand trends & cultivated go-to-market strategies for over **>60 products** in multiple verticals & marketplaces
-  
-- Contributed to the **highest expansion revenue opportunity on record in billed hours**: Nulastin: 8hr/week to 16hr/week / FGS: 5hr/week to 10hr/week / Jill: 5hr/week to 10hr/week / e70 performance led to signing a $160k/month Amazon business
+<br>
 
-- Launched **12 Amazon startups.** Oversaw all aspects of startup journey: from launch, strategy, communication & execution. Combined Yield: **$30k in 2 months**
-  
-- Liaised with developers to fix a failing feature for Amazon businesses (day parting of ads). Real-time alert system was built & integrated into Slack. A **100% reduction** in failed ad starts was achieved & response rate to ad failures jumped by **>90%** in real time
-  
-- Enhanced businesses’ ops. Unlocked efficiency through building advanced client reporting dashboards with multiple KPIs & data points for scaling Amazon businesses further; **>80%** in additional sales were captured thanks to the improved optimisation
-  
-- Maintained the best client retention rate on record; contributed to periods with the lowest churn rate MoM; **<2%**
+- Drove >$2m/monthly sales with 57% YoY growth for the portfolio, managing a >$3m annual advertising budget
+- Analyzed demand and strategized for 60+ products in multiple categories
+- Achieved record expansion revenue in billed hours, doubling Nulastin, FGS, and Jill's weekly hours, while securing a $160k/month Amazon business following e70 performance
+- Led end-to-end launch, strategy, and execution of 12 Amazon startups, yielding $30k in just 2 months
+- Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by >90%
+- Optimized Amazon businesses by developing advanced client reporting dashboards, capturing >80% additional sales & enhancing scalability
 
-- Oversaw all accounts’ data & was the main custodian of its quality & delivery. Reviewed data daily & **formulated high level & data-driven strategies & targets** on weekly, monthly, quarterly & yearly basis per business. Managed 2 Data Analysts
+</br>
 
 ### **Dziro** (Apr 2019 - Mar 2020)  
-_Founder (bootstrapped, reached out & pitched to >1000 potential investors, [pitch deck](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing))_
+_Founder (bootstrapped, reached out & pitched to >1000 potential investors_)
 
-Smart camera for control & management of excessive food waste for the B2B & B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0)
+Smart camera to manage food waste for B2B and B2C markets. Company's assets can be viewed [here](https://www.dropbox.com/sh/0twy49x64lovg45/AADMUGwlKAP9JJfjKo-KvTHfa?dl=0) & pitch deck [here](https://drive.google.com/file/d/1v7I_9HsO8nvkkQPwzVXa7WVKUZrrakyG/view?usp=sharing)
 
-- Built an experienced team of 8 professionals; achieved the following core milestones:
-  - Launched an MVP in under 1 month; surpassed initial target **by 2 months**
-  - Reached smart camera food scanning precision & recognition rate of **>97% for >400 different food types**
-  - Shortlisted as the **most anticipated start-up** in the Spring 2019 cohort at the ABC Accelerator in Slovenia
-- Founders Factory **set up a new sector for their accelerator program** following my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
-- **Top finalist** in the Creatella startup pitch & product demonstration [competition](https://creatella.ventures/competition) from >2000 companies
+- Formed an 8-person team and achieved the following milestones:
+  <br>
 
-
+  - Launched MVP in <1 month, exceeding the target by 2 months
+  - Achieved >97% precision and recognition rate for >400 food types with the smart camera
+  - Named the most anticipated start-up in the Spring 2019 cohort at the ABC
+  - Accelerator, Slovenia
+  - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
+  - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from >2000 companies
+  
+  </br>
 ### **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
 
-UBS initiated & VC backed peer to peer blockchain platform for exchange of tokenized cash value between members
+UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized cash value between members
 
 
+- Developed product for top banks & central banks' consortium at the C-level
+- Coordinated $63.2m Series A investment round from 16 member banks
+- Onboarded 3 new member banks, bringing the total number of institutional participants to 23
+- Gained member banks' strong support for economic and financial incentives distribution among platform participants •CollaboratedonMVPlaunchofP,PvP&DvPpaymentproductswith12blockchainengineers
+- Aligned product roadmap with members' objectives via product-specific documentation & collaboration with engineers
+- Identified cost-saving opportunity of 0.3x-16x in legacy payment networks through strategic analysis
 
-- Led product development for the consortium of top 20 leading banks & 5 Central Banks at the C-level:
-  - Coordinated steps & prepared the company for the Series A **$63.2m investment round.** The capital was raised from 16 out of 20 member banks
-  - Signed **3 new member banks** to the platform; increased the total number of institutional participants to **23**
-  - Secured an overwhelming support from the member banks for the distribution of economic & financial incentives for the platform members
-- Collaborated with a team of **12 blockchain engineers** on the successful MVP launch of P, PvP & DvP payments infrastructure products
-- Produced product specific documents, liased with engineers to ensure the alignment of the product roadmap with the members’ objectives
-- Performed strategic analysis on legacy payment networks; identified significant cost saving opportunity btw **0.3x-16x** for the target product
 
-### **Bitsmarter** (May 2018 - July 2018)  
-_Product Development Manager (short tenure because the CEO scammed the company & disappeared)_
-
-Consultancy firm working with blockchain & IoT start-ups across multiple stages & verticals
-
-- Managed blockchain strategies & initiatives for seed & growth stage start-ups:
-  - Location sharing app: Realized **£119k in R&D Tax Relief**, launched MVP, designed blockchain architecture, [here](https://www.dropbox.com/sh/k1viac0pc9wewnh/AADIhngcnjTcACH_Gmxy3mH6a?dl=0)
-  - Annuity start-up: Designed business-specific blockchain architecture with native token economics, [here](https://www.dropbox.com/sh/7t9sogis6x3z44h/AACg2odWu-VOrC6P947G6fXVa?dl=0)
-
-### **GSA Capital** (Apr 2017 - Apr 2018)  
-_Equity Research Analyst (1 year contract)_
+### **GSA Capital** (Apr 2017 - July 2018)  
+_Equity Research Analyst (1+ year contract)_
 
 London-based top quant hedge fund
 
-- Identified **>90%** of BUY opportunity stocks by analysing equity valuation models, risk & return characteristics of each public company
-- Supported quantitative research team & traders; successfully delivered trading recommendations & ideas worth **>US$5m**
-- Carried out extensive data equity analysis on US, Asian & European stocks and assigned BUY / SELL / HOLD trading recommendations respectively
+- Identified >90% of buy opportunity stocks through equity valuation and risk analysis
+- Supported traders with successful trading ideas worth over US$5m
+- Analyzed US, Asian & European stocks data and provided BUY, SELL, HOLD trading recommendations
 
 
 ### **DealGlobe** (Apr 2016 - Feb 2017)  
 _M&A Analyst Intern_
 
-Leading Sino - European M&A boutique buy & sell-side advisory
+Sino-European M&A boutique for buy & sell-side advisory
 
 - Worked on the following UK-based transactions:
   - **US$1.4bn** AppLovin marketing company
@@ -156,8 +146,8 @@ Leading Sino - European M&A boutique buy & sell-side advisory
 ### **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
 
-- Produced over **£5m** in trading recommendations for in house traders
-- Performed valuation analyses on stocks **>$200M in annual sales**; utilized CAPM to identify entry & exit points for equity positions
+- Generated £5m+ trading recommendations for in-house traders
+- Analysed stocks with >$200M in annual sales, used CAPM for equity position entry and exit points
 
 ## Skills
 
@@ -184,27 +174,25 @@ I honed my communication skills while completing my thesis at university, which 
 ## Education 💻
 
 #### **Makers Academy** (Nov 2022 - March 2023)
-_Full-time, highly selective 12 weeks software development bootcamp focusing on:_
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+_**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
+
+- Web development projects: In a team of 4-6 people created 3 dynamic web applications; Facebook & Airbnb clones(14 days each), & the [final](https://github.com/HusnainRashid/london-on-a-budget) project (8 days) was built using the MERN stack ([deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing))
+- Key fundamental skills practiced & covered during individual & group projects under tight deadlines: TDD, Pair Programming, Agile, OOP, Debugging, Refactoring, Project & Time Management, Diagramming, Building MVP, Front & Backend Development
+- Key skills practiced & covered: JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest), Ruby (Sinatra, RSpec, Cypress), SQL (PostgreSQL, TablePlus), HTML, CSS (Bootstrap), Test Coverage (Codecov), Diagramming (Figma, Excalidraw, Mermaid), Agile (Monday, Trello)
 
 #### **Kings College London** (Sept 2014 - Sept 2015)
 
 - MSc Economics of Oil & Gas
 - Grade: Merit
-- Received a highly competitive King’s College Scholarship, covering 50% of tuition fees (only 55 awards for 10,385 Masters students)
+- Received a 50% tuition fee scholarship from Kingʼs College (1 of 55 out of 10,385 Masters students)
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Hobbies  🎯
 
-- I am very competitive. I have played many sports in the past but mostly practised judo. I am 3 times British Judo Council National Champion. I also took multiple first places in other local tournaments in the UK
-- I am interested in tech and regularly read start up news from one of my favourite sites: TechCrunch
-- I love reading. My favourite genres: self development, investment, history, novel, and psychology. The very last book I read was **The Bitcoin Standart**
-- I love travelling. I like both planning my trip in greater detail and love travelling to places spontaneously
+- **Sports**: I am very competitive. I have played many sports in the past but mostly practised judo. 3 times British Judo Council National Champion & won multiple first places in other local tournaments in the UK
+- **Tech**: I am interested in tech and regularly read start up news from one of my favourite sites: TechCrunch
+- **Reading**: favorite genres: self development, investment, history, novel, and psychology. The last book I read: **The Bitcoin Standart**
+- **Travelling**: I like both planning my trips in greater detail and love travelling to places spontaneously
