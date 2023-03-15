@@ -2,6 +2,12 @@
 
 <span style="color:green">Hi</span>, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
 
+<div align="center">
+
+[**Tech Stack**](#Skills) | [**Projects**](#Projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#Education) | [**Hobbies**](#Hobbies)
+
+</div>
+
 ## Socials 📒
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky)
