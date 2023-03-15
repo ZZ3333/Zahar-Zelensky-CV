@@ -79,6 +79,8 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 
 </div>
 
+<br>
+</br>
 
 **Additional Highlights**
 
@@ -107,6 +109,7 @@ Smart camera to manage food waste for B2B and B2C markets. Company's assets can 
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
   - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from >2000 companies
   
+  <br>
   </br>
 ### **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
@@ -122,6 +125,9 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 - Identified cost-saving opportunity of 0.3x-16x in legacy payment networks through strategic analysis
 
 
+<br>
+</br>
+
 ### **GSA Capital** (Apr 2017 - July 2018)  
 _Equity Research Analyst (1+ year contract)_
 
@@ -131,6 +137,8 @@ London-based top quant hedge fund
 - Supported traders with successful trading ideas worth over US$5m
 - Analyzed US, Asian & European stocks data and provided BUY, SELL, HOLD trading recommendations
 
+<br>
+</br>
 
 ### **DealGlobe** (Apr 2016 - Feb 2017)  
 _M&A Analyst Intern_
@@ -141,6 +149,9 @@ Sino-European M&A boutique for buy & sell-side advisory
   - **US$1.4bn** AppLovin marketing company
   - **US$300m** Southampton football club
   - **US$30m** IpGroup company
+
+<br>
+</br>
 
 ### **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
