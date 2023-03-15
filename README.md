@@ -59,7 +59,6 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 
 <br>
 
-<center>
 
 | Company Name  | Growth Rate | ROAS | ACOS | TACOS | Comments |
 | :---: | :---: | :---: | :---: | :---:| :---: |
@@ -75,8 +74,25 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 | [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4% |
 | [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18% |
  
- </center>
 
+<div align="center">
+
+| Company Name  | Growth Rate | ROAS | ACOS | TACOS | Comments |
+| :---: | :---: | :---: | :---: | :---:| :---: |
+| [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3% |
+| [Nulastin US](https://www.amazon.com/stores/page/8A58C49C-E922-4193-86CF-5025A73952FB)  | 543%  | 5 | 15% | 10% |
+| [Vital Baby UK](https://www.amazon.co.uk/stores/node/16246572031?ie=UTF8&field-lbr_brands_browse-bin=Vital+Baby)  | 400%  | 9 | 5% | 2% |
+| [E70 US](https://www.amazon.com/stores/e70IntensiveHealing/page/A30756CB-91E6-44FC-95CD-74DCDE9F970E?ref_=ast_bln)  | 263%  | 4 | 15% | 8% |
+| [Jill Razor US](https://www.amazon.com/stores/Jill/page/01AE771D-A8E3-4D75-B213-D7DF0199CE5D?ref_=ast_bln)  | 200%  | 5 | 15% | 13% |
+| [LedKoning FR](https://www.amazon.fr/stores/LEDChampion/page/3A083DBD-2DCB-4513-AF50-85A184E5D54B?ref_=ast_bln)  | 400%  | 4 | 17% | 17% |
+| [Kokoso UK](https://www.amazon.co.uk/stores/Kokoso/page/76FCCF77-DCCC-42E2-9D8E-73DF6869CEEC?ref_=ast_bln)  | 100%  | 4 | 15% | 13% |
+| [Fold Hill UK](https://www.amazon.co.uk/stores/Foldhill/Homepage/page/384C6D05-2556-4BB2-87D9-5A3BAF4C2E4A)  | 125%  | 7 | 13% | 10% |
+| [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | 187%  | 4 | 15% | 13% |
+| [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4% |
+| [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 15% |
+
+ 
+|
 
 **Additional Highlights**
 
