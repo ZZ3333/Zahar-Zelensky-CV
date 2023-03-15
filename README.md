@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,jest,postgres,postman,ruby,html,css,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,jest,postgres,postman,ruby,html,css,figma&perline=" />
 </p>
 
 
@@ -176,7 +176,7 @@ I honed my communication skills while completing my thesis at university, which 
 #### **Makers Academy** (Nov 2022 - March 2023)
 _**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
 
-- Web development projects: In a team of 4-6 people created 3 dynamic web applications; Facebook & Airbnb clones(14 days each), & the [final](https://github.com/HusnainRashid/london-on-a-budget) project (8 days) was built using the MERN stack ([deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing))
+- Web development projects: In a team of 4-6 people created 3 dynamic web applications; Facebook & Airbnb clones(14 days each), & the [final project](https://github.com/HusnainRashid/london-on-a-budget) (8 days) was built using the MERN stack ([deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing))
 - Key fundamental skills practiced & covered during individual & group projects under tight deadlines: TDD, Pair Programming, Agile, OOP, Debugging, Refactoring, Project & Time Management, Diagramming, Building MVP, Front & Backend Development
 - Key skills practiced & covered: JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest), Ruby (Sinatra, RSpec, Cypress), SQL (PostgreSQL, TablePlus), HTML, CSS (Bootstrap), Test Coverage (Codecov), Diagramming (Figma, Excalidraw, Mermaid), Agile (Monday, Trello)
 
