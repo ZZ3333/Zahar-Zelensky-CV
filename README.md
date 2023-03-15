@@ -59,6 +59,8 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 
 <br>
 
+<center>
+
 | Company Name  | Growth Rate | ROAS | ACOS | TACOS | Comments |
 | :---: | :---: | :---: | :---: | :---:| :---: |
 | [FGS Ingredients UK](https://www.amazon.co.uk/s?k=Old+India)  | 122%  | 6 | 15% | 3% |
@@ -72,10 +74,11 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups / scaleups / enterprises; *
 | [Tum Tum UK](https://www.amazon.co.uk/stores/TUMTUM/page/241100A0-3468-412F-8287-8654927F3316?ref_=ast_bln)  | 187%  | 4 | 15% | 13% |
 | [Wilton London](https://www.amazon.co.uk/stores/Wilton+London/page/12FAB470-6132-482A-97B8-715E245BFE33?ref_=ast_bln)  | 52%  | 4 | 15% | 4% |
 | [Ahmad Tea UK](https://www.amazon.co.uk/stores/AhmadTea/page/C3B66E49-A043-4907-8D80-2BC3CEB5F971?ref_=ast_bln)  | 51%  | 4 | 20% | 18% |
-</br>
+ 
+ </center>
 
 
-**Additional Achievments**
+**Additional Highlights**
 
 - Delivered **>$2m in monthly sales** which yielded a 57% YoY aggregated monthly sales growth across the managed portfolio. Oversaw 4 PPC Associates & 1 Associate Manager, & managed a yearly advertising budget of >$3m
   
@@ -193,7 +196,7 @@ _Full-time, highly selective 12 weeks software development bootcamp focusing on:
 
 - MSc Economics of Oil & Gas
 - Grade: Merit
-- Received a highly competitve King’s College Scholarship, covering 50% of tuition fees (only 55 awards for 10,385 Masters students)
+- Received a highly competitive King’s College Scholarship, covering 50% of tuition fees (only 55 awards for 10,385 Masters students)
 
 #### Any other qualifications
 
