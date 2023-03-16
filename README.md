@@ -18,7 +18,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 <div align="center">
 
-[**Projects**](#Projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#Education) | [**Hobbies**](#Hobbies)
+[**Projects**](#projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#education) | [**Hobbies**](#hobbies)
 
 </div>
 
@@ -58,7 +58,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 | **MakersBnB** | AirBnB Clone | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
-## <a name="work_experience">Work Experience 💼</a>
+## <a name="experience">Work Experience 💼</a>
 
 ### 🔹 **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy, Operations Senior Account Manager_
