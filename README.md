@@ -48,7 +48,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 
 
-## <a name="Projects">Projects ✏️</a>
+## <a name="projects">Projects ✏️</a>
 
 
 | Name | Description | Tech/tools | Deck | Demo | Type | Duration |
@@ -58,7 +58,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 | **MakersBnB** | AirBnB Clone | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
-## <a name="Work Experience">Work Experience 💼</a>
+## <a name="work_experience">Work Experience 💼</a>
 
 ### 🔹 **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy, Operations Senior Account Manager_
@@ -215,7 +215,7 @@ _**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## <a name="Hobbies">Hobbies 🎯</a>
+## <a name="hobbies">Hobbies 🎯</a>
 
 - **Sports**: I am very competitive. I have played many sports in the past but mostly practised judo. 3 times British Judo Council National Champion & won multiple first places in other local tournaments in the UK
 - **Tech**: I am interested in tech and regularly read start up news from one of my favourite sites: TechCrunch
