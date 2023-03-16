@@ -29,20 +29,24 @@
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,jest,postgres,postman,ruby,html,css,figma&perline=" />
 </p>
 
-<br>
-
-</br>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-
   <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
   <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
-  
 </div>
 
 <br>
 
 </br>
+
+
+<div style="text-align: center;">
+    <div style="display: flex; flex-direction: row; justify-content: center;">
+        <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
+        <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
+    </div>
+</div>
+
 
 ## Projects ✏️
 
