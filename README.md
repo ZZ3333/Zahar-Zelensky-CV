@@ -40,12 +40,13 @@
 </br>
 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <div style="display: flex; flex-direction: row; justify-content: center;">
         <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
         <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
     </div>
 </div>
+
 
 
 ## Projects ✏️
