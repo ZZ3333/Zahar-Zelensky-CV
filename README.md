@@ -26,15 +26,11 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky) 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](linkedin.com/in/zahar-zelensky) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahar.zelenskiy@gmail.com)
 
 </div>
 
-<div align="center">
 
- 🔗 [LinkedIn](linkedin.com/in/zahar-zelensky) | 📧 [Email](mailto:zahar.zelenskiy@gmail.com)
- 
- </div>
 
 ## Skills 🧰
 
@@ -45,6 +41,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 <br>
 </br>
+
 
 
 
