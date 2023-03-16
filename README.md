@@ -11,16 +11,14 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
   <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
   <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
 </div>
-
 </div>
 
 <br>
-
 </br>
 
 <div align="center">
 
-[**Tech Stack**](#Skills) | [**Projects**](#Projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#Education) | [**Hobbies**](#Hobbies)
+[**Projects**](#Projects) | [**Work Experience**](#experience) | [**Skills**](#skills) | [**Education**](#Education) | [**Hobbies**](#Hobbies)
 
 </div>
 
@@ -46,14 +44,11 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 </p>
 
 <br>
-
 </br>
 
 
 
-
-
-## Projects ✏️
+## <a name="Projects">Projects ✏️</a>
 
 
 | Name | Description | Tech/tools | Deck | Demo | Type | Duration |
@@ -63,7 +58,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 | **MakersBnB** | AirBnB Clone | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
 
-## Work Experience 💼
+## <a name="Work Experience">Work Experience 💼</a>
 
 ### 🔹 **Threecolts** (Mar 2021 - June 2022)  
  _E-commerce Strategy, Operations Senior Account Manager_
@@ -220,7 +215,7 @@ _**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies  🎯
+## <a name="Hobbies">Hobbies 🎯</a>
 
 - **Sports**: I am very competitive. I have played many sports in the past but mostly practised judo. 3 times British Judo Council National Champion & won multiple first places in other local tournaments in the UK
 - **Tech**: I am interested in tech and regularly read start up news from one of my favourite sites: TechCrunch
