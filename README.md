@@ -1,6 +1,22 @@
 # About Me
 
-<span style="color:green">Hi</span>, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects. 
+Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects.
+
+<br>
+</br>
+
+<div align="center">
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
+  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
+</div>
+
+</div>
+
+<br>
+
+</br>
 
 <div align="center">
 
@@ -33,18 +49,7 @@
 
 </br>
 
-<div align="center">
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
-  <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
-  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
-</div>
-
-</div>
-
-<br>
-
-</br>
 
 
 
