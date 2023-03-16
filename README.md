@@ -2,7 +2,7 @@
 
 Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects.
 
---
+<br>
 
 <div align="center">
 
@@ -12,6 +12,8 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 </div>
 </div>
 
+<br>
+<br>
 </a>
 
 <div align="center">
@@ -20,6 +22,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zahar-zelensky) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahar.zelenskiy@gmail.com)
 
 </div>
+<br>
 
 <div align="center">
 
@@ -28,14 +31,17 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 </div>
 
 ## Languages and Tools 🧰
+<br>
 
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,jest,postgres,postman,ruby,html,css,figma&perline=" />
 </p>
 
+<br>
 
 ## <a name="projects">Projects ✏️</a>
+<br>
 
 
 | Name | Description | Tech/tools | Deck | Demo | Type | Duration |
@@ -90,6 +96,7 @@ Managed 30+ SC & VC FBA Amazon businesses: start-ups, scaleups, & enterprises, w
 - Partnered with developers to fix failing Amazon feature, integrating real-time alerts on Slack, reducing failed ad starts by 100%, and increasing response rate to ad failures by >90%
 - Optimized Amazon businesses by developing advanced client reporting dashboards, capturing >80% additional sales & enhancing scalability
 
+<br>
 
 ### 🔹 **Dziro** (Apr 2019 - Mar 2020)  
 _Founder (bootstrapped, reached out & pitched to >1000 potential investors_)
@@ -104,7 +111,8 @@ Smart camera to manage food waste for B2B and B2C markets. Company's assets can 
   - Founders Factory established a new sector in their accelerator program after my pitch, please see confirmation [here](https://drive.google.com/file/d/1ZvKODh-zrlwMjNCSttFowTjqGNexcV23/view)
   - Named a top finalist in the Creatella startup pitch [competition](https://creatella.ventures/competition) from >2000 companies
   
- 
+ <br>
+
 ### 🔹 **Clearmatics (Fnality International spin off)** (Oct 2018 - Mar 2019)  
 _Product Development Manager_
 
@@ -118,6 +126,7 @@ UBS & VC-backed blockchain platform for the peer-to-peer exchange of tokenized c
 - Aligned product roadmap with members' objectives via product-specific documentation & collaboration with engineers
 - Identified cost-saving opportunity of 0.3x-16x in legacy payment networks through strategic analysis
 
+<br>
 
 ### 🔹 **GSA Capital** (Apr 2017 - July 2018)  
 _Equity Research Analyst (1+ year contract)_
@@ -128,6 +137,7 @@ London-based top quant hedge fund
 - Supported traders with successful trading ideas worth over US$5m
 - Analyzed US, Asian & European stocks data and provided BUY, SELL, HOLD trading recommendations
 
+<br>
 
 ### 🔹 **DealGlobe** (Apr 2016 - Feb 2017)  
 _M&A Analyst Intern_
@@ -139,6 +149,7 @@ Sino-European M&A boutique for buy & sell-side advisory
   - **US$300m** Southampton football club
   - **US$30m** IpGroup company
 
+<br>
 
 ### 🔹 **UBS** (Nov 2015 - Dec 2015)  
 _Investment Analyst (2 months contract)_
@@ -167,6 +178,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Another skill
 
+<br>
 
 ##  <a name="education">Education 💻</a>
 
