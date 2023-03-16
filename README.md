@@ -8,9 +8,19 @@
 
 </div>
 
-## Socials 📒
+## Contact Me 📒
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/zahar-zelensky) 
+
+</div>
+
+<div align="center">
+
+ 🔗 [LinkedIn](linkedin.com/in/zahar-zelensky) | 📧 [Email](mailto:zahar.zelenskiy@gmail.com)
+ 
+ </div>
 
 ## Skills 🧰
 
@@ -19,27 +29,19 @@
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,jest,postgres,postman,ruby,html,css,figma&perline=" />
 </p>
 
+<br>
 
-## Stats 
+</br>
 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&&theme=dark" alt="GitHub Stats">
+  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly" alt="GitHub Streak">
 
-<img width="360px" src="https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&locale=en" alt="zz3333" /> 
-<br><br>
-<img width="360px" src="https://github-readme-streak-stats.herokuapp.com/?user=zz3333&" alt="zz3333" />
-<br><br>
+</div>
 
+<br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zz3333&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zz3333&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-
-
-
-
+</br>
 
 ## Projects ✏️
 
