@@ -183,7 +183,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ##  <a name="education">Education 💻</a>
 
-#### **Makers Academy** (Nov 2022 - March 2023)
+### **Makers Academy** (Nov 2022 - March 2023)
 _**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
 
 - Web development projects: In a team of 4-6 people created 3 dynamic web applications; Facebook & Airbnb clones(14 days each), & the [final project](https://github.com/HusnainRashid/london-on-a-budget) (8 days) was built using the MERN stack ([deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing))
@@ -192,7 +192,7 @@ _**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
   
 - Key skills practiced & covered: **_JavaScript_** (React, Node.js, Express, MongoDB, jQuery, Jest), **_Ruby_** (Sinatra, RSpec, Cypress), **_SQL_** (PostgreSQL, TablePlus), HTML, CSS (Bootstrap), Test Coverage (Codecov), **_Diagramming_** (Figma, Excalidraw, Mermaid), **_Agile_** (Monday, Trello)
 
-#### **Codecademy** (Sept 2022 - March 2023)
+### **Codecademy** (Sept 2022 - March 2023)
 _Covered courses (account [overview](https://www.codecademy.com/profiles/system3946687449)_)
 
 - Ruby
@@ -200,7 +200,7 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 - React
 
 
-#### **Kings College London** (Sept 2014 - Sept 2015)
+### **Kings College London** (Sept 2014 - Sept 2015)
 
 - MSc Economics of Oil & Gas
 - Grade: Merit
