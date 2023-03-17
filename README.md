@@ -192,6 +192,14 @@ _**Full-time**, highly selective 12 weeks Full Stack Software Engineer Bootcamp_
   
 - Key skills practiced & covered: **_JavaScript_** (React, Node.js, Express, MongoDB, jQuery, Jest), **_Ruby_** (Sinatra, RSpec, Cypress), **_SQL_** (PostgreSQL, TablePlus), HTML, CSS (Bootstrap), Test Coverage (Codecov), **_Diagramming_** (Figma, Excalidraw, Mermaid), **_Agile_** (Monday, Trello)
 
+#### **Codecademy** (Sept 2022 - March 2023)
+_Covered courses (account [overview](https://www.codecademy.com/profiles/system3946687449)_)
+
+- Ruby
+- JavaScript
+- React
+
+
 #### **Kings College London** (Sept 2014 - Sept 2015)
 
 - MSc Economics of Oil & Gas
