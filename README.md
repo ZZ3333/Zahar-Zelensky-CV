@@ -219,24 +219,14 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jest
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ruby
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/trello
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira
-.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jest.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ruby.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/trello.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />
 
