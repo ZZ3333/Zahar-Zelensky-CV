@@ -14,15 +14,18 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 <br>
 <br>
-</a>
+
+
+<br>
 
 <div align="center">
-
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zahar-zelensky) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahar.zelenskiy@gmail.com)
-
+<a href="zahar.zelenskiy@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/zahar-zelensky"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /></a>
 </div>
+
 <br>
+
+
 
 <div align="center">
 
@@ -41,14 +44,20 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jest.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cypress.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ruby.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rubysinatra.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/trello.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bootstrap.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/canva.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codecov.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/miro.svg" />
 </p>
 
 
