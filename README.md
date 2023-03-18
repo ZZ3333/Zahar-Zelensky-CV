@@ -60,8 +60,7 @@ Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an inten
 
 
 <br>
----
-
+___________________________________________________________________________________________________
 
 
 ## <a name="projects">Projects ✏️</a>
