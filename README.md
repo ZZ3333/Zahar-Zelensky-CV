@@ -214,7 +214,7 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 - **Reading**: favorite genres: self development, investment, history, novel, and psychology. The last book I read: **The Bitcoin Standart**
 - **Travelling**: I like both planning my trips in greater detail and love travelling to places spontaneously
 
-
+<p align="center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
@@ -229,4 +229,5 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/trello.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira.svg" />
+</p>
 
