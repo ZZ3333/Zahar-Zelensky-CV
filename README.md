@@ -206,9 +206,6 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 - Grade: Merit
 - Received a 50% tuition fee scholarship from Kingʼs College (1 of 55 out of 10,385 Masters students)
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## <a name="hobbies">Hobbies 🎯</a>
 
@@ -216,3 +213,32 @@ That in some arguable way make you a better software developer or well-rounded p
 - **Tech**: I am interested in tech and regularly read start up news from one of my favourite sites: TechCrunch
 - **Reading**: favorite genres: self development, investment, history, novel, and psychology. The last book I read: **The Bitcoin Standart**
 - **Travelling**: I like both planning my trips in greater detail and love travelling to places spontaneously
+
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jest
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ruby
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/trello
+.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira
+.svg" />
