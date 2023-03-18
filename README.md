@@ -217,12 +217,8 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express
-.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react
-.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nodedotjs
 .svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jest
@@ -243,3 +239,4 @@ _Covered courses (account [overview](https://www.codecademy.com/profiles/system3
 .svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jira
 .svg" />
+
