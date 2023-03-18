@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 | Name | Description | Tech/tools | Deck | Demo | Type | Duration |
 | :---:| :---: | :---: | :---:| :---:| :---:| :---: |
-| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | [02:45-12:00](https://www.youtube.com/watch?v=Ay6Iw0_IVnM) | Final Team Project | 8 days
+| [**Dealscover London**](https://github.com/HusnainRashid/london-on-a-budget)| Airbnb for events in London | MongoDB, React, Node.js, Express, Jest, JavaScript, Bootstrap | [Pitch deck](https://drive.google.com/file/d/1DFztOEyiPIIdvBFvAfxd34-OMuDZSgQW/view?usp=sharing) | [2:45 - 12:00](https://www.youtube.com/watch?v=Ay6Iw0_IVnM) | Final Team Project | 8 days
 | [**Acebook**](https://github.com/ZZ3333/acebook-acebookers) | Facebook Clone | MongoDB, React, Node.js, Express, Cypress, Jest, JavaScript, Bootstrap| N/A| N/A | 2nd Team Engineering Project | 14 days |
 | **MakersBnB** | AirBnB Clone | Ruby, Sinatra, Rspec| N/A | N/A | 1st Team Engineering Project | 14 days |
 
