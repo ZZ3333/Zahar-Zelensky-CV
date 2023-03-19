@@ -1,18 +1,12 @@
 # About Me
 
-Hi and welcome to my GitHub page. My name is Zahar and I am a graduate of Makers Academy, the leading tech bootcamp that radically changes peoples' careers and put people into tech jobs. I just completed an intensive and highly selective 12 weeks of Software Engineering bootcamp. I am interested in tech and this can be judged by my work history and individual projec I undertook in the past. 
+Welcome to my GitHub page! My name is Zahar, and I recently completed an intensive and highly selective 12-week Software Engineering bootcamp at Makers Academy, the leading tech bootcamp that helps people radically change their careers and land tech jobs.
 
-<br>
+As a Makers Academy graduate, I have gained extensive skills in agile environments, test-driven development, object-oriented programming, front- and backend development, and the ability to quickly learn and adapt to new technologies. My previous work history and individual projects also demonstrate my strong interest and experience in tech.
 
-As a Makers Academy graduate, I am skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies.
+I am excited to apply my previously acquired knowledge of finance and ecommerce, as well as my experience working with both large and startup level companies in my next role. I have successfully worked in high-pressure environments with limited time to deliver results, collaborated with software engineers and C-level executives, and worked on several MVP projects. This experience has given me a strong understanding of the full product development cycle.
 
-<br>
-
-I am looking to combine my previously acquired knowledge of finance and ecommerce, as well as the experience working for large and startup level companies in my next role. I equally worked succesfully in high pressure enviorments with limited time to deliver results. I have experience working with software engineers and C-level executives. I have previously worked on a number of MVP projects and thus am fully aware of the full product development cycle. 
-
-<br>
-
-With the past and my most recent experience with Makers Academy I have learned what it takes to build and ship succesful feature or product in a timely manner. My previous experience highlights that I am a results driven person. 
+Through my previous and recent experience, I have gained a deep understanding of what it takes to build and ship successful products in a timely manner. My results-driven mindset and passion for tech will be a valuable asset to any team.
 
  
 
