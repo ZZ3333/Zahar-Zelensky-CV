@@ -1,6 +1,20 @@
 # About Me
 
-Hi, my name is Zahar and I am a graduate of Makers Academy. I completed an intensive 12 weeks of Software Engineering bootcamp. I am interested in tech and look forward to building or colaborating on interesting projects.
+Hi and welcome to my GitHub page. My name is Zahar and I am a graduate of Makers Academy, the leading tech bootcamp that radically changes peoples' careers and put people into tech jobs. I just completed an intensive and highly selective 12 weeks of Software Engineering bootcamp. I am interested in tech and this can be judged by my work history and individual projec I undertook in the past. 
+
+<br>
+
+As a Makers Academy graduate, I am skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies.
+
+<br>
+
+I am looking to combine my previously acquired knowledge of finance and ecommerce, as well as the experience working for large and startup level companies in my next role. I equally worked succesfully in high pressure enviorments with limited time to deliver results. I have experience working with software engineers and C-level executives. I have previously worked on a number of MVP projects and thus am fully aware of the full product development cycle. 
+
+<br>
+
+With the past and my most recent experience with Makers Academy I have learned what it takes to build and ship succesful feature or product in a timely manner. My previous experience highlights that I am a results driven person. 
+
+ 
 
 <br>
 
